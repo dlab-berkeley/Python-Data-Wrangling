@@ -1,7 +1,7 @@
 # D-Lab Python Data Wrangling Workshop
 
-[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Data-Wrangling&urlpath=tree%2FPython-Data-Wrangling%2F&branch=main)
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Data-Wrangling/HEAD)
+[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Data-Wrangling-Pilot&urlpath=tree%2FPython-Data-Wrangling-Pilot%2F&branch=main)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Data-Wrangling-Pilot/HEAD)
 
 This repository contains the materials for D-Lab's Python Data Wrangling workshop. Prior experience with [Python Fundamentals](https://github.com/dlab-berkeley/python-fundamentals) is assumed.
 
@@ -17,7 +17,7 @@ Anaconda is a useful package management software that allows you to run Python a
 
 1. [Download and install Anaconda (Python 3.8 distribution)](https://www.anaconda.com/products/individual). Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
 
-2. Download the [Python-Data-Wrangling workshop materials](https://github.com/dlab-berkeley/Python-Data-Wrangling):
+2. Download the [Python-Data-Wrangling workshop materials](https://github.com/dlab-berkeley/Python-Data-Wrangling-Pilot):
 
 * Click the green "Code" button in the top right of the repository information.
 * Click "Download Zip".
@@ -43,13 +43,13 @@ Note that all of the above steps can be run from the terminal, if you're familia
 
 If you do not have Anaconda installed and the materials loaded on your workshop by the time it starts, we *strongly* recommend using the UC Berkeley Datahub to run the materials for these lessons. You can access the DataHub by clicking this button: 
 
-[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Data-Wrangling&urlpath=tree%2FPython-Data-Wrangling%2F&branch=main)
+[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Data-Wrangling-Pilot&urlpath=tree%2FPython-Data-Wrangling-Pilot%2F&branch=main)
 
 The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in a Jupyter notebook that is stored on UC Berkeley's servers. No installation is necessary from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the `Python-Data-Wrangling` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Data-Wrangling/HEAD)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Data-Wrangling-Pilot/HEAD)
 
 By using this button, however, you cannot save your work.
 
