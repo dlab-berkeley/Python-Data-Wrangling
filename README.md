@@ -51,7 +51,11 @@ If you don't have a Berkeley CalNet ID, you can still run these lessons in the c
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Data-Wrangling-Pilot/HEAD)
 
-By using this button, however, you cannot save your work.
+Once you have opened a jupyter notebook within the Binder environment, run the following code within a cell in the notebook:  
+```
+! pip install pandas matplotlib
+```
+Note that in Binder you cannot save your work.
 
 # Additional Resources
 
