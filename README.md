@@ -5,6 +5,8 @@
 
 This repository contains the materials for D-Lab's Python Data Wrangling Pilot workshop. Prior experience with [Python Fundamentals](https://github.com/dlab-berkeley/python-fundamentals) is assumed.
 
+Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+
 ## Workshop Goals
 
 In this workshop, we provide an introduction to data wrangling with Python. We will do so largely with the `pandas` package, which provides a rich set of tools to manipulate and interact with *data frames*, the most common data structure used when analyzing tabular data. We'll learn how to manipulate, index, merge, group, and plot data frames using `pandas` functions.
