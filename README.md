@@ -80,7 +80,6 @@ Here are other Python workshops offered by the D-Lab:
 ## Introductory Workshops
 
 * [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals)
-* [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate) 
 * [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization)
 * [Python Geospatial Fundamentals](https://github.com/dlab-berkeley/Geospatial-Data-and-Mapping-in-Python)
 
