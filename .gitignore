@@ -1,5 +1,6 @@
 unemployment_missing.csv
 .DS_Store
+.claude/
 .ipynb_checkpoints/
 
 # Byte-compiled / optimized / DLL files
